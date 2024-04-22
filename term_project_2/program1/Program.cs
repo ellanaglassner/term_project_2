@@ -1,5 +1,7 @@
 ﻿// Ellana Glassner
 // .NET 8.0.201
+// Compile program with command 'dotnet build'
+// Run program with command 'dotnet run'
 
 // Tells the compiler to include the "system" namespace in the current file's scope.
 using System;
