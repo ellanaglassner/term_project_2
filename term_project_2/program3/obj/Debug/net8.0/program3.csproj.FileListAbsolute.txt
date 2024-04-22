@@ -1,0 +1,14 @@
+/Users/ellanaglassner/CS/c#/term_project_2/program3/obj/Debug/net8.0/program3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ellanaglassner/CS/c#/term_project_2/program3/obj/Debug/net8.0/program3.AssemblyInfoInputs.cache
+/Users/ellanaglassner/CS/c#/term_project_2/program3/obj/Debug/net8.0/program3.AssemblyInfo.cs
+/Users/ellanaglassner/CS/c#/term_project_2/program3/obj/Debug/net8.0/program3.csproj.CoreCompileInputs.cache
+/Users/ellanaglassner/CS/c#/term_project_2/program3/bin/Debug/net8.0/program3
+/Users/ellanaglassner/CS/c#/term_project_2/program3/bin/Debug/net8.0/program3.deps.json
+/Users/ellanaglassner/CS/c#/term_project_2/program3/bin/Debug/net8.0/program3.runtimeconfig.json
+/Users/ellanaglassner/CS/c#/term_project_2/program3/bin/Debug/net8.0/program3.dll
+/Users/ellanaglassner/CS/c#/term_project_2/program3/bin/Debug/net8.0/program3.pdb
+/Users/ellanaglassner/CS/c#/term_project_2/program3/obj/Debug/net8.0/program3.dll
+/Users/ellanaglassner/CS/c#/term_project_2/program3/obj/Debug/net8.0/refint/program3.dll
+/Users/ellanaglassner/CS/c#/term_project_2/program3/obj/Debug/net8.0/program3.pdb
+/Users/ellanaglassner/CS/c#/term_project_2/program3/obj/Debug/net8.0/program3.genruntimeconfig.cache
+/Users/ellanaglassner/CS/c#/term_project_2/program3/obj/Debug/net8.0/ref/program3.dll
